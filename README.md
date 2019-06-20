@@ -1,3 +1,4 @@
 # KotlinDemo
 Calculator app
-This is code for making a simple calculator that adds, subtracts, divides and multiplies two values
+Program wrote in kotlin for:
+Making a simple calculations such as add, subtract, divide and multiply two values
